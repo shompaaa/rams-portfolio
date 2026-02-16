@@ -20,7 +20,15 @@ body{
     text-decoration: none;
     color: white;
     margin: 0 15px;
-    font-size: 17px;
+    font-size: 16px;
+}
+.nav_bar .rams{
+    text-align: center;
+    margin: auto 5px;
+}
+.nav_bar .menu{
+    text-align: center;
+    margin: auto 5px;
 }
 
 .nav_bar button{
